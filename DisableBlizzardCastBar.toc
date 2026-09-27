@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: Disable Blizzard Cast Bar
+## Notes: Disables Blizzard's default player cast bar.
+## Author: Spaan
+## Version: 1.0
+
+DisableBlizzardCastBar.lua
